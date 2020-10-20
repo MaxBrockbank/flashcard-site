@@ -12,7 +12,7 @@ This is a site that uses Bootstrap grid to organized flashcards of JavaScript co
 ## Set-up Instructions
 1. Clone this repository to your desktop.
 2. Open the index.html file in the browser of your choice.
-
+* <em>Alternatively</em> you can just click <a href="https://maxbrockbank.github.io/flashcard-site/">HERE</a>.
 ## Technologies Used
 * HTML
 * CSS/Bootstrap
