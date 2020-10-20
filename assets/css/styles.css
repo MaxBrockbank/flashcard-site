@@ -1,0 +1,16 @@
+.flashcard{
+  cursor: pointer;
+  border: 1px solid blue;
+  width: 100%;
+  height: 150px;
+}
+.term{
+  color: blue;
+  text-align: center;
+  margin-top: 50px;
+}
+.def{
+  display: none;
+  text-align: center;
+  margin-top: 50px;
+}
